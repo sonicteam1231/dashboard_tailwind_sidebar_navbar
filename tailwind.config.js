@@ -8,5 +8,10 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  variants : {
+    extend: {
+      display : ["focus-group"]
+    }
+  }
 }
 
